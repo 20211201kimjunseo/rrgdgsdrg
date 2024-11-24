@@ -1,0 +1,2 @@
+for number in range(5, 10):  # 5부터 9까지의 숫자
+    print(number)
